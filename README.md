@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soes Yeager
+- 👋 Hi, I’m Soes
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on none cuz I'm only 13
