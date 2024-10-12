@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Soes
-- 👀 I’m interested in anime
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on none cuz I'm only 13
-- 📫 How to reach me: well just send me a email.
+- 👀 I do anything fun
+- 🌱 I’m currently learning javascript and python
+- 📫 soesdesu on Discord
 
 <!---
 Soes/Ky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
